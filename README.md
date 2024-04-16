@@ -1,6 +1,7 @@
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
+
 -----------------------------------------------------------------------------------------------------------------------------
 # Specifying the theme an image is shown to
 <picture>
@@ -121,3 +122,71 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 - [ ] \(Optional) Open a followup issue
+
+-----------------------------------------------------------------------------------------------------------------------------
+# mension
+@github/support What do you think about these updates?
+
+Referencing issues and pull requests
+
+You can bring up a list of suggested issues and pull requests within the repository by typing #. Type the issue or pull request number or title to filter the list, and then press either tab or enter to complete the highlighted result.
+
+-----------------------------------------------------------------------------------------------------------------------------
+# emoji
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+Here is a simple footnote[^1].
+
+-----------------------------------------------------------------------------------------------------------------------------
+# Footnote
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+<!-- This content will not appear in the rendered Markdown -->
+-----------------------------------------------------------------------------------------------------------------------------
+# Aletrs
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+-----------------------------------------------------------------------------------------------------------------------------
+# Ignore markdown formatting
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
